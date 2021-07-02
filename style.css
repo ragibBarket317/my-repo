@@ -1,3 +1,20 @@
 h1{
-    background-color: aqua;
+    color: darkgreen;
+    text-align: center;
+
+}
+div {
+    background-color: bisque;
+    width: 80%;
+    padding: 30px;
+    margin: 0 auto;
+    border: 5px solid chartreuse;
+    border-radius: 20px 0px ;
+    
+}
+p{
+    color: green;
+    text-align: center;
+    text-align: justify;
+    
 }
