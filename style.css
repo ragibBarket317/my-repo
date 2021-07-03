@@ -3,7 +3,7 @@ h1{
     text-align: center;
 
 }
-div {
+.main {
     background-color: bisque;
     width: 80%;
     padding: 30px;
@@ -17,4 +17,15 @@ p{
     text-align: center;
     text-align: justify;
     
+}
+.center {
+    display: flex;
+    justify-content: center;
+
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
 }
